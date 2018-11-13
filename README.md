@@ -1,1 +1,2 @@
-# macChat
+# macCHAT
+chat
